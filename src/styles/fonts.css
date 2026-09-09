@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_hairline.woff2') format('woff2');
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_thin.woff2') format('woff2');
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_book.woff2') format('woff2');
+  font-weight: 350;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_black.woff2') format('woff2');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_hairline_italic.woff2') format('woff2');
+  font-weight: 100;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_thin_italic.woff2') format('woff2');
+  font-weight: 200;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_light_italic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_book_italic.woff2') format('woff2');
+  font-weight: 350;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_regular_italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_medium_italic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_bold_italic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'ALS Hauss';
+  src: url('./assets/fonts/als-hauss/als_hauss_black_italic.woff2') format('woff2');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
